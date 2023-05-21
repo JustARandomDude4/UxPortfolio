@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/InsureApp.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -29,30 +29,30 @@ const imageAltText = "desktop with books and laptop";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
+
 const projectList = [
-  {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+  { 
+    title: "Insure App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An app that reinvents health  insurance in digital space for unorganized sector and self-employed workers",
+    url: "https://www.behance.net/gallery/161520485/InsureApp",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Topper Stop",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "India's first tuition services website that help Student tutors with an EASY, RELIABLE and FASTER way of earning money. ",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "TrackForce",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Tool for monitoring ground personnel",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "My Portfolio Website",
+    description:"A showcase of my skills and experience as a front-end web developer.",
+    url: "https://github.com/JustARandomDude4/JustARandomDude4.github.io",
   },
 ];
 
